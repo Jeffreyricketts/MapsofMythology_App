@@ -6,4 +6,4 @@ The purpose of this Mobile Application is to create a mythology map to provide a
 <img src ="https://github.com/Jeffreyricketts/MapsofMythology_Navigation/assets/54014269/c9f2fee8-69e8-4ee0-88ed-f6a07e20a3f4" width="400">
 
 # Example of a Location Screen
-<img src ="https://github.com/Jeffreyricketts/MapsofMythology_Navigation/assets/54014269/a796add9-0fa3-41ea-ac42-a62c39214f83)" width="400">
+<img src ="https://github.com/Jeffreyricketts/MapsofMythology_App/assets/54014269/ee0e7cd5-0b11-41db-be7d-ebf46ee52c59" width="400">
